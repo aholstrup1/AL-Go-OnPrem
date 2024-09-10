@@ -14,8 +14,9 @@ defaults:
     shell: powershell
 
 permissions:
-  actions: read
+  actions: write
   contents: read
+  discussions: read
   id-token: write
   pages: read
 
